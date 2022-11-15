@@ -1,0 +1,13 @@
+
+
+I = imread('C:\MASTERS\MINOR PROJECT\MINOR PROJECT-IMAGES\SPINE IMAGES\types-of-scoliosis\dataset\OLD IMAGES\ex\c.1.png');
+
+    
+imshow(I)
+
+p = drawpolygon
+p.Position;
+
+
+
+
